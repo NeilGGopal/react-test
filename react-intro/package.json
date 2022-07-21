@@ -18,7 +18,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": ["react-intro", "shared-config"],
+    "extends": ["shared-config"],
     "rules": {
       "additional-rule": "warn"
     },
